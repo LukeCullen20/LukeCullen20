@@ -1,4 +1,4 @@
-# Hi, I'm Luke 👋
+# Hi, I'm Luke Phillips
 
 I'm a **Computer Science & Mathematics student** at the **University of Cape Town** with a passion for **software engineering**, **graphics programming**, and **building software from scratch**. I enjoy applying mathematical thinking to solve computational problems and continuously expanding my knowledge across different areas of computer science.
 
@@ -22,16 +22,12 @@ I'm a **Computer Science & Mathematics student** at the **University of Cape Tow
 # 🛠 Tech Stack
 
 ### Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,java,javascript,html,css,sql,bash&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,cpp,c,python,javascript,html,css,bash,sql&theme=dark)
 
-### Graphics & Game Development
-![Graphics](https://go-skill-icons.vercel.app/api/icons?i=opengl,vulkan,cmake&theme=dark)
 
 ### Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,linux,ubuntu,visualstudio,vscode,clion,cmake&theme=dark)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,visualstudio,vscode,cmake&theme=dark)
 
-### Currently Learning
-![Learning](https://go-skill-icons.vercel.app/api/icons?i=vulkan,docker,linux&theme=dark)
 
 ---
 
