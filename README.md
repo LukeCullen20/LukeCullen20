@@ -37,7 +37,7 @@ I'm a **Computer Science & Mathematics student** at the **University of Cape Tow
 
 # 📌 Current Projects
 
-### 🌿 Olive Engine
+### 🌿 Infinite Escape
 A modern C++ game engine built from scratch featuring:
 - OpenGL renderer
 - Entity architecture
